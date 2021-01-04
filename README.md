@@ -37,8 +37,11 @@
 
 <br />
 <br/>
+
+
 #### Most Used Languages
 [![Top Langs](http://github-readme-stats.vercel.app/api/top-langs/?username=Anonster&langs_count=10)](https://github.com/Anonster/github-readme-stats)
+
 
 <details>
     <summary>📃 Curriculum</summary>
