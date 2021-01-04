@@ -1,8 +1,3 @@
-### Hi there 👋
-
-
-
-
 <h2 align="center">Hey, I'm Sameer Katija</h2>
 
 <p align="center">Completely in love with reading, studying, computing, programming, coffee and languages - German, English and Portuguese <3.</b> </p>
@@ -72,7 +67,7 @@
 
     📆 Nov 2019 - 2020
 
-    📍 **Open Source Contributor** - Artiba Tech
+- 👨‍💻 **Open Source Contributor** - Artiba Tech
     Working with Python
 
 </details>
