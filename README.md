@@ -5,6 +5,7 @@
 
 <br/>
 <br/>
+
 #### You can find me here:
 
 [ <img align="left" alt="Sameer katija | Gmail"  src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sameerkatija@gmail.com" />][gmail]
@@ -13,6 +14,7 @@
 
 <br />
 <br/>
+
 #### Technologies
 
 <img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/typescript/typescript.png" />
@@ -29,6 +31,7 @@
 
 <br/>
 <br/>
+
 #### Github Stats
 [![Sameer Katija's github stats](https://github-readme-stats.vercel.app/api?username=Anonster&theme=blueberry&show_icons=true&count_private=true&include_all_commits=true&hide_title=true)](https://github.com/Anonster/github-readme-stats)
 
