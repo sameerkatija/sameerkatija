@@ -2,6 +2,8 @@
 
 <p align="center">Completely in love with reading, studying, computing, programming, coffee and languages - German, English and Portuguese <3.</b> </p>
 
+
+
 #### You can find me here:
 
 [ <img align="left" alt="Sameer katija | Gmail"  src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sameerkatija@gmail.com" />][gmail]
@@ -23,6 +25,8 @@
 <img align="left" alt="Github" width="26px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />
 
 <br />
+
+
 
 #### Github Stats
 [![Sameer Katija's github stats](https://github-readme-stats.vercel.app/api?username=Anonster&theme=blueberry&show_icons=true&count_private=true&include_all_commits=true&hide_title=true)](https://github.com/Anonster/github-readme-stats)
