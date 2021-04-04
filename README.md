@@ -33,14 +33,14 @@
 <br/>
 
 #### Github Stats
-[![Sameer Katija's github stats](https://github-readme-stats.vercel.app/api?username=Anonster&theme=blueberry&show_icons=true&count_private=true&include_all_commits=true&hide_title=true)](https://github.com/Anonster/github-readme-stats)
+[![Sameer Katija's github stats](https://github-readme-stats.vercel.app/api?username=sameerkatija&theme=blueberry&show_icons=true&count_private=true&include_all_commits=true&hide_title=true)](https://github.com/sameerkatija/github-readme-stats)
 
 <br />
 <br/>
 
 
 #### Most Used Languages
-[![Top Langs](http://github-readme-stats.vercel.app/api/top-langs/?username=Anonster&langs_count=10)](https://github.com/Anonster/github-readme-stats)
+[![Top Langs](http://github-readme-stats.vercel.app/api/top-langs/?username=sameerkatija&langs_count=10)](https://github.com/sameerkatija/github-readme-stats)
 
 
 <details>
@@ -85,7 +85,7 @@
 
 
 <!--
-**Anonster/Anonster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sameerkatija/sameerkatija** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
