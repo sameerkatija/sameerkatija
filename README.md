@@ -11,7 +11,8 @@
 [ <img align="left" alt="Sameer katija | Gmail"  src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sameerkatija@gmail.com" />][gmail]
 [ <img target="_blank" align="left" alt="Sameer Katija | Twitter"  src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sameerkatija" />][twitter]
 [ <img align="left" alt="Sameer Katija | Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white"/>][instagram]
-
+[_<img align="left" alt="Sameer Katija | Medium" src="https://seeklogo.com/images/M/medium-logo-F0ACFCCD58-seeklogo.com.png"/>][medium]
+[_<img align="left" alt="Sameer Katija | Linkedin" src="https://1000logos.net/wp-content/uploads/2017/03/Linkedin-Logo-640x400.png"/>][linkedin]
 <br />
 <br/>
 
@@ -103,3 +104,5 @@ Here are some ideas to get you started:
 [twitter]: https://twitter.com/sameerkatija
 [gmail]: mailto:sameerkatija@gmail.com
 [instagram]: https://www.instagram.com/sameerkatija__
+[medium]: https://www.medium.com/@sameerkatija
+[linkedin]: https://www.linkedin.com/in/sameerkatija
