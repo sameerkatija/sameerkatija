@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sameerkatija" target="blank"><img src="https://img.shields.io/twitter/follow/sameerkatija?logo=twitter&style=for-the-badge" alt="sameerkatija" /></a> </p>
 
-- 🔭 I’m currently working on [PinChef](https://github.com/sameerkatija/PinChefWeb)
+- 🔭 I’m currently not working on anything.
 
 - 🌱 I’m currently learning **Data Science, Machine Learning and Deep Learning.**
 
