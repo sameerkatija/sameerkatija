@@ -13,7 +13,7 @@
 
 - 📝 I write articles on [https://medium.com/@sameerkatija](https://medium.com/@sameerkatija)
 
-- 💬 Ask me about **react, python and java.**
+- 💬 Ask me about **react, Node, Express Js, python and java.**
 
 - 📫 How to reach me **sameerkatija@gmail.com**
 
